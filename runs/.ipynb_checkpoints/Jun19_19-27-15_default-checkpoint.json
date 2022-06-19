@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "momentum": 0.99, "image_size": 256, "encoder_layers": [1, 32, 64, 128, 256], "decoder_layers": [256, 128, 64, 32], "epochs": 20, "batch_size": 5, "device": "cpu", "date": "2022-06-19", "loss_name": "BCE_DiceLoss", "optimizer_name": "SGD", "len_dataset": 526}
